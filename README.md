@@ -1,2 +1,2 @@
 # PHP
-All of my PHP practise projects are here.
+All of my PHP practise projects will be here.
