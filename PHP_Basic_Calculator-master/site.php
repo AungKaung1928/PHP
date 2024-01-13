@@ -1,24 +1,3 @@
-<!---------------=======================================================
-	
-	Item	: Calculator
-	
-	About	: PHP Basic
-	
---------------------------------------------------------------------------------------
-I'm creating a basic PHP calculator that lets you enter two values and chose your operator then displays the answer.
-Everything is working fine except index.html is outputting the answer to site.php.
---------------------------------------------------------------------------------------
-	
-	
-
-                             G o o d L u c k
-
-=========================================================  ------------------->
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
